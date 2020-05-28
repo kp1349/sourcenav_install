@@ -1,4 +1,3 @@
-#testing
 #!/bin/sh
 
 # REQUIREMENTS
